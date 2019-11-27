@@ -1,2 +1,4 @@
-# lesson3
-8ball
+# Welcome to magic ball
+
+## Getting Started
+   $ ruby 
