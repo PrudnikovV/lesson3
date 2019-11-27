@@ -1,7 +1,7 @@
 # Welcome to magic 8 ball
 Magic 8 ball give you answers on future. Ask the 8 ball and get answers on your questions.
 
-This is a simple ruby application. For start it you need install ruby first.
+This is a simple ruby application. For start it you need install [ruby](https://www.ruby-lang.org/ru/downloads/) first.
 
 ## Getting Started
 ### 1. Ask the questions in your mind
