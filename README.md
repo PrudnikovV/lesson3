@@ -6,5 +6,5 @@ This is a simple [ruby](https://www.ruby-lang.org/ru/downloads/) application.
 ## Getting Started
  1. Ask the questions in your mind
  2. Start program
-    $ ruby 8ball.rb
+         $ ruby 8ball.rb
  3. See the answer to your question
